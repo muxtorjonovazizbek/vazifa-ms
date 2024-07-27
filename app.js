@@ -92,3 +92,39 @@
  
 //  // Test case
 //  console.log(indexOfMax([1, 3, 7, 1, 2, 5, 7])); // Output: 2
+
+
+// 85. Berilgan raqamlar ro'yxatidagi barcha elementlarning kvadrat ildizlarini hisoblang.
+
+// function sqrtElements(arr) {
+//     arr.forEach(element => {
+//         console.log(Math.sqrt(element)); 
+//     });
+//  }
+ 
+//  // Test case
+//  console.log(sqrtElements([1, 4, 9, 16, 25])); // Output: [1, 2, 3, 4, 5]
+
+
+// 86. Berilgan raqamlar ro'yxatidagi juft va toq sonlarni alohida ro'yxatlar sifatida qaytaring.
+
+// function separateEvenOdd(arr) {
+//     let evenNum = []
+//     let oddNum = []
+//     arr.forEach(element => {
+//        if (element % 2 == 0) {
+//             evenNum.push(element)
+//        }else {
+//         oddNum.push(element)
+//        }
+//     });
+//     console.log(evenNum);
+//     console.log(oddNum);
+//  }
+ 
+//  // Test case
+//  console.log(separateEvenOdd([1, 2, 3, 4, 5, 6, 7, 8, 9])); // Output: { even: [2, 4, 6, 8], odd: [1, 3, 5, 7, 9]
+
+
+
+
